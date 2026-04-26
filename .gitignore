@@ -1,0 +1,55 @@
+# IDEs / System Files
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment / Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.venv/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Cache and Temporary
+tmp/
+.pytest_cache/
+.vite/
+dist/
+*.log
+diag_output.txt
+final_diag.txt
+tree_output.txt
+
+# Databases and Data
+bullrun.db
+*.sqlite3
+data/raw/*.csv
+data/processed/*.csv
+data/snapshots/*.json
+dataset/*.csv
+data/paper_portfolio.json*
+
+# Machine Learning / Large files (LFS candidates)
+# Models are tiny currently, but adding ignore for large generic formats
+*.pt
+*.onnx
+*.h5
+*.keras
+
+# Optional: You can explicitly keep small mock models by ignoring exceptions
+!models/meta_model/xgb_meta_model.pkl
+!models/technical_model/scaler_best.pkl
+!models/technical_model/technical_model_best.pkl

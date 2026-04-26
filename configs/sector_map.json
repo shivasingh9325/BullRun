@@ -1,0 +1,19 @@
+{
+    "RELIANCE.NS": "Energy", "TCS.NS": "IT", "HDFCBANK.NS": "Banking", 
+    "ICICIBANK.NS": "Banking", "INFY.NS": "IT", "HINDUNILVR.NS": "FMCG", 
+    "ITC.NS": "FMCG", "SBI.NS": "Banking", "BHARTIARTL.NS": "Telecom", 
+    "LICI.NS": "Finance", "KOTAKBANK.NS": "Banking", "LT.NS": "Industrial", 
+    "AXISBANK.NS": "Banking", "ADANIENT.NS": "Conglomerate", "SUNPHARMA.NS": "Pharma", 
+    "ASIANPAINT.NS": "Industrial", "M&M.NS": "Auto", "MARUTI.NS": "Auto", 
+    "TITAN.NS": "Consumer", "BAJFINANCE.NS": "Finance", "ULTRACEMCO.NS": "Cement", 
+    "POWERGRID.NS": "Utilities", "NTPC.NS": "Utilities", "HCLTECH.NS": "IT", 
+    "JSWSTEEL.NS": "Metals", "TATASTEEL.NS": "Metals", "COALINDIA.NS": "Energy", 
+    "GRASIM.NS": "Cement", "ADANIPORTS.NS": "Infrastructure", "SBILIFE.NS": "Finance", 
+    "INDUSINDBK.NS": "Banking", "BAJAJFINSV.NS": "Finance", "WIPRO.NS": "IT", 
+    "HINDALCO.NS": "Metals", "ONGC.NS": "Energy", "TECHM.NS": "IT", 
+    "EICHERMOT.NS": "Auto", "TATAMOTORS.NS": "Auto", "BPCL.NS": "Energy", 
+    "NESTLEIND.NS": "FMCG", "DRREDDY.NS": "Pharma", "HDFCLIFE.NS": "Finance", 
+    "CIPLA.NS": "Pharma", "BRITANNIA.NS": "FMCG", "ADANIPOWER.NS": "Utilities", 
+    "TATACONSUM.NS": "FMCG", "DIVISLAB.NS": "Pharma", "APOLLOHOSP.NS": "Healthcare", 
+    "HEROMOTOCO.NS": "Auto", "BAJAJ-AUTO.NS": "Auto"
+}

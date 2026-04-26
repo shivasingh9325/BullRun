@@ -1,0 +1,20 @@
+{
+    "buy_hold": {
+        "final_value": 109815.61026059007,
+        "total_return": 9.815610260590066,
+        "sharpe_ratio": 0.3070847496146645,
+        "max_drawdown": -27.175750601848797
+    },
+    "meta_model": {
+        "final_value": 98676.40822189138,
+        "total_return": -1.3235917781086173,
+        "sharpe_ratio": -0.8523126470526946,
+        "max_drawdown": -2.6557023942933013
+    },
+    "rl_agent": {
+        "final_value": 101190.66707272848,
+        "total_return": 1.19066707272848,
+        "sharpe_ratio": 0.2635966959856063,
+        "max_drawdown": -3.032263027213274
+    }
+}

@@ -1,0 +1,413 @@
+{
+    "avg_return": 0.5114192588730353,
+    "median_return": 0.7745730102535235,
+    "worst_case_return": -6.937004010651522,
+    "max_drawdown_across_universe": -6.937004010651522,
+    "worst_stock": "ADANIENT.NS",
+    "best_stock": "BHARTIARTL.NS",
+    "avg_win_rate": 0.38737989234270265,
+    "avg_trade_count": 462.1,
+    "total_stocks_evaluated": 50,
+    "ticker_details": [
+        {
+            "ticker": "ADANIENT.NS",
+            "total_return": -6.937004010651522,
+            "win_rate": 0.2153846153846154,
+            "avg_ret_per_trade": -0.005382079717656248,
+            "trade_count": 455,
+            "final_net_worth": 93062.99598934848
+        },
+        {
+            "ticker": "ADANIPORTS.NS",
+            "total_return": 0.5601889576619579,
+            "win_rate": 0.40372670807453415,
+            "avg_ret_per_trade": 0.00132278471139533,
+            "trade_count": 483,
+            "final_net_worth": 100560.18895766196
+        },
+        {
+            "ticker": "ADANIPOWER.NS",
+            "total_return": 1.120728448972426,
+            "win_rate": 0.23799582463465555,
+            "avg_ret_per_trade": -0.004033682809883351,
+            "trade_count": 479,
+            "final_net_worth": 101120.72844897243
+        },
+        {
+            "ticker": "APOLLOHOSP.NS",
+            "total_return": 0.6003429319477873,
+            "win_rate": 0.4004149377593361,
+            "avg_ret_per_trade": 0.0015963367515853168,
+            "trade_count": 482,
+            "final_net_worth": 100600.34293194779
+        },
+        {
+            "ticker": "ASIANPAINT.NS",
+            "total_return": -3.0810921654235863,
+            "win_rate": 0.36909871244635195,
+            "avg_ret_per_trade": -0.0016699018239412322,
+            "trade_count": 466,
+            "final_net_worth": 96918.90783457641
+        },
+        {
+            "ticker": "AXISBANK.NS",
+            "total_return": 2.3821164887048942,
+            "win_rate": 0.4175365344467641,
+            "avg_ret_per_trade": 0.0016438664678909223,
+            "trade_count": 479,
+            "final_net_worth": 102382.1164887049
+        },
+        {
+            "ticker": "BAJAJ-AUTO.NS",
+            "total_return": 0.8674073015470058,
+            "win_rate": 0.41855670103092785,
+            "avg_ret_per_trade": -0.000521867150450136,
+            "trade_count": 485,
+            "final_net_worth": 100867.407301547
+        },
+        {
+            "ticker": "BAJAJFINSV.NS",
+            "total_return": -0.5932215061259339,
+            "win_rate": 0.34439834024896265,
+            "avg_ret_per_trade": 0.0006214090438100258,
+            "trade_count": 482,
+            "final_net_worth": 99406.77849387407
+        },
+        {
+            "ticker": "BAJFINANCE.NS",
+            "total_return": 1.8657888423838012,
+            "win_rate": 0.42203742203742206,
+            "avg_ret_per_trade": 0.002085286358871802,
+            "trade_count": 481,
+            "final_net_worth": 101865.7888423838
+        },
+        {
+            "ticker": "BHARTIARTL.NS",
+            "total_return": 4.505588673605569,
+            "win_rate": 0.4613821138211382,
+            "avg_ret_per_trade": 0.0027157882051846442,
+            "trade_count": 492,
+            "final_net_worth": 104505.58867360557
+        },
+        {
+            "ticker": "BPCL.NS",
+            "total_return": 2.110248546964867,
+            "win_rate": 0.44258872651356995,
+            "avg_ret_per_trade": 0.0016718851218924247,
+            "trade_count": 479,
+            "final_net_worth": 102110.24854696487
+        },
+        {
+            "ticker": "BRITANNIA.NS",
+            "total_return": 2.2164629502892494,
+            "win_rate": 0.48254620123203285,
+            "avg_ret_per_trade": 0.0021689409760901834,
+            "trade_count": 487,
+            "final_net_worth": 102216.46295028925
+        },
+        {
+            "ticker": "CIPLA.NS",
+            "total_return": -1.5431953128554596,
+            "win_rate": 0.4271047227926078,
+            "avg_ret_per_trade": 0.0012709973795564994,
+            "trade_count": 487,
+            "final_net_worth": 98456.80468714454
+        },
+        {
+            "ticker": "COALINDIA.NS",
+            "total_return": 1.5170135326143064,
+            "win_rate": 0.45102040816326533,
+            "avg_ret_per_trade": 0.0004579167646276592,
+            "trade_count": 490,
+            "final_net_worth": 101517.0135326143
+        },
+        {
+            "ticker": "DIVISLAB.NS",
+            "total_return": 4.209571042152005,
+            "win_rate": 0.4715447154471545,
+            "avg_ret_per_trade": 0.002659016091325937,
+            "trade_count": 492,
+            "final_net_worth": 104209.571042152
+        },
+        {
+            "ticker": "DRREDDY.NS",
+            "total_return": 0.061552692693891,
+            "win_rate": 0.43917525773195876,
+            "avg_ret_per_trade": 0.0016501761182976438,
+            "trade_count": 485,
+            "final_net_worth": 100061.55269269389
+        },
+        {
+            "ticker": "EICHERMOT.NS",
+            "total_return": 4.2051246815373595,
+            "win_rate": 0.463768115942029,
+            "avg_ret_per_trade": 0.002936778032944953,
+            "trade_count": 483,
+            "final_net_worth": 104205.12468153736
+        },
+        {
+            "ticker": "GRASIM.NS",
+            "total_return": 1.391608615184232,
+            "win_rate": 0.4382716049382716,
+            "avg_ret_per_trade": 0.0022497576941821183,
+            "trade_count": 486,
+            "final_net_worth": 101391.60861518423
+        },
+        {
+            "ticker": "HCLTECH.NS",
+            "total_return": 1.3668253469724585,
+            "win_rate": 0.40476190476190477,
+            "avg_ret_per_trade": 0.0013585835637313687,
+            "trade_count": 462,
+            "final_net_worth": 101366.82534697246
+        },
+        {
+            "ticker": "HDFCBANK.NS",
+            "total_return": 0.7943358153126174,
+            "win_rate": 0.43558282208588955,
+            "avg_ret_per_trade": 0.0022229763942529165,
+            "trade_count": 489,
+            "final_net_worth": 100794.33581531262
+        },
+        {
+            "ticker": "HDFCLIFE.NS",
+            "total_return": -0.4121787635778455,
+            "win_rate": 0.3604887983706721,
+            "avg_ret_per_trade": 0.0010668658807346275,
+            "trade_count": 491,
+            "final_net_worth": 99587.82123642215
+        },
+        {
+            "ticker": "HEROMOTOCO.NS",
+            "total_return": 1.866037293078567,
+            "win_rate": 0.36419753086419754,
+            "avg_ret_per_trade": -0.0005300693065183054,
+            "trade_count": 486,
+            "final_net_worth": 101866.03729307857
+        },
+        {
+            "ticker": "HINDALCO.NS",
+            "total_return": 2.89452456712813,
+            "win_rate": 0.4925373134328358,
+            "avg_ret_per_trade": 0.002124608176059276,
+            "trade_count": 469,
+            "final_net_worth": 102894.52456712813
+        },
+        {
+            "ticker": "HINDUNILVR.NS",
+            "total_return": -0.2991937731294456,
+            "win_rate": 0.31568228105906315,
+            "avg_ret_per_trade": -0.0006888272600085723,
+            "trade_count": 491,
+            "final_net_worth": 99700.80622687055
+        },
+        {
+            "ticker": "ICICIBANK.NS",
+            "total_return": 1.1678058362181183,
+            "win_rate": 0.4634146341463415,
+            "avg_ret_per_trade": 0.00256110803106695,
+            "trade_count": 492,
+            "final_net_worth": 101167.80583621812
+        },
+        {
+            "ticker": "INDUSINDBK.NS",
+            "total_return": -2.5789950118591953,
+            "win_rate": 0.3540772532188841,
+            "avg_ret_per_trade": -0.0004988166700038313,
+            "trade_count": 466,
+            "final_net_worth": 97421.0049881408
+        },
+        {
+            "ticker": "INFY.NS",
+            "total_return": -0.31964957877303823,
+            "win_rate": 0.4312896405919662,
+            "avg_ret_per_trade": 0.0003647362720807919,
+            "trade_count": 473,
+            "final_net_worth": 99680.35042122696
+        },
+        {
+            "ticker": "ITC.NS",
+            "total_return": -1.906758971827221,
+            "win_rate": 0.3490759753593429,
+            "avg_ret_per_trade": 0.00012421874263027883,
+            "trade_count": 487,
+            "final_net_worth": 98093.24102817278
+        },
+        {
+            "ticker": "JSWSTEEL.NS",
+            "total_return": 0.811532804023096,
+            "win_rate": 0.44536082474226807,
+            "avg_ret_per_trade": 0.002105643952147944,
+            "trade_count": 485,
+            "final_net_worth": 100811.5328040231
+        },
+        {
+            "ticker": "KOTAKBANK.NS",
+            "total_return": 0.1344993043297436,
+            "win_rate": 0.42355371900826444,
+            "avg_ret_per_trade": 0.0019501267317404403,
+            "trade_count": 484,
+            "final_net_worth": 100134.49930432974
+        },
+        {
+            "ticker": "LICI.NS",
+            "total_return": -3.212649921108939,
+            "win_rate": 0.3470225872689938,
+            "avg_ret_per_trade": -0.0023830092383187985,
+            "trade_count": 487,
+            "final_net_worth": 96787.35007889106
+        },
+        {
+            "ticker": "LT.NS",
+            "total_return": -0.8140070146353101,
+            "win_rate": 0.38493723849372385,
+            "avg_ret_per_trade": 0.0009323769769930999,
+            "trade_count": 478,
+            "final_net_worth": 99185.99298536469
+        },
+        {
+            "ticker": "M&M.NS",
+            "total_return": 4.439497993841723,
+            "win_rate": 0.46887966804979253,
+            "avg_ret_per_trade": 0.0030751602505380803,
+            "trade_count": 482,
+            "final_net_worth": 104439.49799384172
+        },
+        {
+            "ticker": "MARUTI.NS",
+            "total_return": -0.2824033945715928,
+            "win_rate": 0.3839835728952772,
+            "avg_ret_per_trade": 0.001318825865376138,
+            "trade_count": 487,
+            "final_net_worth": 99717.5966054284
+        },
+        {
+            "ticker": "NESTLEIND.NS",
+            "total_return": 0.13184195881745836,
+            "win_rate": 0.3903966597077244,
+            "avg_ret_per_trade": 0.0012999802182451067,
+            "trade_count": 479,
+            "final_net_worth": 100131.84195881746
+        },
+        {
+            "ticker": "NTPC.NS",
+            "total_return": 0.569922056681331,
+            "win_rate": 0.37267080745341613,
+            "avg_ret_per_trade": -0.0005209833721000134,
+            "trade_count": 483,
+            "final_net_worth": 100569.92205668133
+        },
+        {
+            "ticker": "ONGC.NS",
+            "total_return": 1.2163156211822934,
+            "win_rate": 0.4365904365904366,
+            "avg_ret_per_trade": -0.0009320250481660068,
+            "trade_count": 481,
+            "final_net_worth": 101216.3156211823
+        },
+        {
+            "ticker": "POWERGRID.NS",
+            "total_return": 1.1630904215053306,
+            "win_rate": 0.3975409836065574,
+            "avg_ret_per_trade": 0.00017307621595771968,
+            "trade_count": 488,
+            "final_net_worth": 101163.09042150533
+        },
+        {
+            "ticker": "RELIANCE.NS",
+            "total_return": -2.0241157791290605,
+            "win_rate": 0.3237113402061856,
+            "avg_ret_per_trade": -0.0007393936944379927,
+            "trade_count": 485,
+            "final_net_worth": 97975.88422087094
+        },
+        {
+            "ticker": "SBI.NS",
+            "total_return": NaN,
+            "win_rate": 0.0,
+            "avg_ret_per_trade": -1.0,
+            "trade_count": 1,
+            "final_net_worth": NaN
+        },
+        {
+            "ticker": "SBILIFE.NS",
+            "total_return": 2.1599151860495915,
+            "win_rate": 0.3816326530612245,
+            "avg_ret_per_trade": 0.0009421626923685939,
+            "trade_count": 490,
+            "final_net_worth": 102159.91518604959
+        },
+        {
+            "ticker": "SUNPHARMA.NS",
+            "total_return": 0.7548102051944297,
+            "win_rate": 0.4437627811860941,
+            "avg_ret_per_trade": 0.00168712124696256,
+            "trade_count": 489,
+            "final_net_worth": 100754.81020519443
+        },
+        {
+            "ticker": "TATACONSUM.NS",
+            "total_return": -0.499417118020312,
+            "win_rate": 0.4244306418219462,
+            "avg_ret_per_trade": 0.0011525410643643873,
+            "trade_count": 483,
+            "final_net_worth": 99500.58288197969
+        },
+        {
+            "ticker": "TATAMOTORS.NS",
+            "total_return": NaN,
+            "win_rate": 0.0,
+            "avg_ret_per_trade": -1.0,
+            "trade_count": 1,
+            "final_net_worth": NaN
+        },
+        {
+            "ticker": "TATASTEEL.NS",
+            "total_return": 0.4235088700106717,
+            "win_rate": 0.3924050632911392,
+            "avg_ret_per_trade": 0.0004194922490987184,
+            "trade_count": 474,
+            "final_net_worth": 100423.50887001067
+        },
+        {
+            "ticker": "TCS.NS",
+            "total_return": -2.3261877656238066,
+            "win_rate": 0.375,
+            "avg_ret_per_trade": -0.00030972631553540566,
+            "trade_count": 464,
+            "final_net_worth": 97673.8122343762
+        },
+        {
+            "ticker": "TECHM.NS",
+            "total_return": 2.761083350471454,
+            "win_rate": 0.4613733905579399,
+            "avg_ret_per_trade": 0.002521744216737344,
+            "trade_count": 466,
+            "final_net_worth": 102761.08335047145
+        },
+        {
+            "ticker": "TITAN.NS",
+            "total_return": 1.7767757116666179,
+            "win_rate": 0.39748953974895396,
+            "avg_ret_per_trade": 0.0016319701936040993,
+            "trade_count": 478,
+            "final_net_worth": 101776.77571166662
+        },
+        {
+            "ticker": "ULTRACEMCO.NS",
+            "total_return": 1.339491902030277,
+            "win_rate": 0.43388429752066116,
+            "avg_ret_per_trade": 0.0023247607678803786,
+            "trade_count": 484,
+            "final_net_worth": 101339.49190203028
+        },
+        {
+            "ticker": "WIPRO.NS",
+            "total_return": -2.007363437555294,
+            "win_rate": 0.40670859538784065,
+            "avg_ret_per_trade": 0.0003617025269108326,
+            "trade_count": 477,
+            "final_net_worth": 97992.6365624447
+        }
+    ]
+}

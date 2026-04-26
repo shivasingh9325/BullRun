@@ -1,0 +1,90 @@
+apis:
+  news:
+    api_key: YOUR_API_KEY_HERE
+    base_url: https://finnhub.io/api/v1/company-news
+    fallback_value: 0.0
+    provider: finnhub
+costs:
+  brokerage_fee_pct: 0.025
+  slippage_pct: 0.05
+data_pipeline:
+  lookback_days: 1000
+  tickers_source: nifty50
+execution_profile: CONSERVATIVE
+features:
+  drawdown_window: 30
+  fwd_return_window: 5
+  rolling_vol_window: 14
+paths:
+  database: data/bullrun.sqlite
+  logs: logs
+  models: models
+  processed_data: data/processed
+  raw_data: data/raw
+production:
+  dry_run: true
+  equity_curve_path: logs/equity_curve.csv
+  last_run_date: '2026-04-26'
+  market_close_hour: 16
+  max_alloc_per_trade: 0.2
+  max_trades_per_day: 7
+  min_trade_confidence: 0.55
+  neutral_band_lower: 0.45
+  portfolio_drawdown_limit: 0.15
+  sector_exposure_cap: 0.3
+  sector_map_path: configs/sector_map.json
+  soft_drawdown:
+    halt:
+      scale: 0.0
+      threshold: 0.15
+    tier1:
+      scale: 0.5
+      threshold: 0.1
+    tier2:
+      scale: 0.25
+      threshold: 0.12
+  ticker_universe:
+  - RELIANCE.NS
+  - TCS.NS
+  - INFY.NS
+  - HDFCBANK.NS
+  - ICICIBANK.NS
+  tiered_alloc:
+    high:
+      cap: 0.2
+      min_conf: 0.7
+    low:
+      cap: 0.1
+      min_conf: 0.55
+    med:
+      cap: 0.15
+      min_conf: 0.6
+  volatility_target: 25.0
+profiles:
+  AGGRESSIVE:
+    max_alloc: 0.2
+    meta_conf: 0.45
+    min_rr: 0.8
+    sl_mult: 2.0
+    tech_conf: 0.5
+  CONSERVATIVE:
+    max_alloc: 0.1
+    meta_conf: 0.55
+    min_rr: 1.5
+    sl_mult: 1.0
+    tech_conf: 0.6
+project:
+  name: BullRun AI
+  version: 1.0.0
+rl:
+  drawdown_penalty: 0.15
+  ent_coef: 0.01
+  extended_training_steps: 150000
+  hold_penalty: 5.0e-05
+  learning_rate: 0.0001
+  overtrade_penalty: 0.0001
+  profit_incentive: 1.5
+  profit_threshold: 0.001
+  trade_close_bonus: 0.01
+  training_steps: 10000
+  transaction_cost: 0.0015
